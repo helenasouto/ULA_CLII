@@ -24,7 +24,6 @@ A ULA implementa as seguintes operações:
 - **NOT** (inversão de A)
 - **Deslocamento à esquerda/direita**
 
-> *A lista pode ser ajustada conforme as operações realmente implementadas no seu projeto.*
 
 ## 🧠 Tecnologias Utilizadas
 
